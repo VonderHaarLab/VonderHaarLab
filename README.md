@@ -5,9 +5,10 @@
   - Advanced statistical techniques (e.g., multi-level modeling, unsupervised learning algorithms)
   - Microbiome data processing
   - Programming of various operant behavioral tasks 
-- We have two primary code repositories: 
+- We have three primary code repositories: 
   - Published Work: https://github.com/VonderHaarLab/PublishedWork
-  - Works in Progress: 
+  - Works in Progress: https://github.com/VonderHaarLab/WorksInProgress
+  - Tutorials: https://github.com/VonderHaarLab/Tutorials
 - [For more information](https://ngsp.osu.edu/people/vonderhaar.32)
 
 
