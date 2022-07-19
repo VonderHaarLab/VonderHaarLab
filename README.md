@@ -8,7 +8,7 @@
 - We have two primary code repositories: 
   - Published Work: 
   - Works in Progress: 
-- For more information: https://medicine.osu.edu/find-faculty/non-clinical/neuroscience/cole-vonder-haar-phd
+- [For more information:] (https://medicine.osu.edu/find-faculty/non-clinical/neuroscience/cole-vonder-haar-phd)
 
 
 <!---
