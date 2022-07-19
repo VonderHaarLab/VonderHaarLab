@@ -8,7 +8,7 @@
 - We have two primary code repositories: 
   - Published Work: 
   - Works in Progress: 
-- [For more information](https://ngsp.osu.edu/people/vonderhaar.32).
+- [For more information](https://ngsp.osu.edu/people/vonderhaar.32)
 
 
 <!---
