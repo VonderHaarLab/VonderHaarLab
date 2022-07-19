@@ -6,10 +6,10 @@
   - Microbiome data processing
   - Programming of various operant behavioral tasks 
 - We have two primary code repositories: 
-  - Published Work: https://github.com/VonderHaarLab/PublishedWork
-  - Works in Progress: https://github.com/VonderHaarLab/WorksInProgress
+  - [Published Work:](https://github.com/VonderHaarLab/PublishedWork)
+  - [Works in Progress:](https://github.com/VonderHaarLab/WorksInProgress)
 - We also have some tutorials: 
-  - 16s downstream microbiome processing
+  - [16s downstream microbiome processing](https://github.com/VonderHaarLab/16sDownstream)
 - [For more information](https://ngsp.osu.edu/people/vonderhaar.32)
 
 
