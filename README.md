@@ -1,5 +1,5 @@
 - Welcome to the Vonder Haar lab GitHub page
-- We are part of the department of Neuroscience at Ohio State University
+- We are part of the Department of Neuroscience at Ohio State University
 - Our research focuses on behavioral dysfunction after traumatic brain injury
 - Our primary code languages are R and Python. Our coding interests include: 
   - Advanced statistical techniques (e.g., multi-level modeling, unsupervised learning algorithms)
