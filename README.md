@@ -8,7 +8,7 @@
 - We have two primary code repositories: 
   - Published Work: 
   - Works in Progress: 
-- [here](https://github.com/mfrankz/microbiome/blob/main/ps.rds).
+- [For more information](https://ngsp.osu.edu/people/vonderhaar.32).
 
 
 <!---
