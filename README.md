@@ -8,7 +8,7 @@
 - We have two primary code repositories: 
   - [Published Work](https://github.com/VonderHaarLab/PublishedWork)
   - [Works in Progress](https://github.com/VonderHaarLab/WorksInProgress)
-- We also have some [tutorials](https://github.com/VonderHaarLab/Tutorials) for R users: 
+- We also have some [tutorials](https://github.com/VonderHaarLab/Tutorials) for R users 
 - For more information on the lab click [here](https://ngsp.osu.edu/people/vonderhaar.32)
 
 
