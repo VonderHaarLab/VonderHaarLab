@@ -7,7 +7,7 @@
   - Programming of various operant behavioral tasks 
 - We have two primary code repositories: 
   - [Published Work](https://github.com/VonderHaarLab/PublishedWork)
-    - [Code](https://github.com/VonderHaarLab/PublishedWork/tree/main/BNE-Microbiome) for [Frankot et al., 2022 in BNE](https://psycnet.apa.org/record/2022-85473-001); Effects of TBI on the gut microbiome
+    - [Code](https://github.com/VonderHaarLab/PublishedWork/tree/main/Frankot-2022-Microbiome) for [Frankot et al., 2022 in BNE](https://psycnet.apa.org/record/2022-85473-001); Effects of TBI on the gut microbiome
   - [Works in Progress](https://github.com/VonderHaarLab/WorksInProgress)
 - We also have some [tutorials](https://github.com/VonderHaarLab/Tutorials) for R users 
 - For more information on the lab click [here](https://ngsp.osu.edu/people/vonderhaar.32)
